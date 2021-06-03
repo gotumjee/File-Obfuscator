@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/fobsfonts">
+        <file>OpenSans.ttc</file>
+    </qresource>
+    <qresource prefix="/fobsicons">
+        <file>fobs.ico</file>
+    </qresource>
+</RCC>
